@@ -3,7 +3,6 @@
 > **An innovative Android application that teaches Python fundamentals through interactive lessons, gamified learning, and beautiful animations. Built with modern Android architecture and Jetpack Compose.**
 
 <img src="https://github.com/user-attachments/assets/4042df29-44af-4228-8020-f6ddc2020868" width="200"/>
-<img src="https://github.com/user-attachments/assets/2eb2dc95-8391-4e51-9095-daae53221609" width="200"/>
 <img src="https://github.com/user-attachments/assets/4efe988a-28d4-4614-b4d2-b60b2871111f" width="200"/>
 <img src="https://github.com/user-attachments/assets/66347319-ca92-41df-a80a-b07144814348" width="200"/>
 <img src="https://github.com/user-attachments/assets/627e4ef0-71d3-4a4e-8d11-0e06c570890d" width="200"/>
