@@ -1,6 +1,12 @@
 # 🐍 Python in 20 Days - Interactive Learning App
 
 > **An innovative Android application that teaches Python fundamentals through interactive lessons, gamified learning, and beautiful animations. Built with modern Android architecture and Jetpack Compose.**
+![png6](https://github.com/user-attachments/assets/1474c341-e6a7-4bb2-a403-2c8fc256f1b3)
+![png5](https://github.com/user-attachments/assets/8fb234ed-aff7-4f44-a19f-ec38cf7590c7)
+![png4](https://github.com/user-attachments/assets/23592867-9441-4533-9688-8883b9c79409)
+![png3](https://github.com/user-attachments/assets/3857c965-ac83-49b7-b1c6-06af1d841b3e)
+![png2](https://git![resim1](https://github.com/user-attachments/assets/f3e4a2fd-08c9-48e0-8265-af2acd002d57)
+hub.com/user-attachments/assets/dab8dcb6-a57b-4a7d-a58b-acf3daccd331)
 
 ## 📱 Project Overview
 
